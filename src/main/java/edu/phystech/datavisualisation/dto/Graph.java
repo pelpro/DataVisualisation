@@ -1,10 +1,7 @@
 package edu.phystech.datavisualisation.dto;
 
-import com.sun.tools.javac.util.List;
-
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
 public class Graph {
 
